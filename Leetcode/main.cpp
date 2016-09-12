@@ -1,15 +1,24 @@
 //
-//  main.cpp
+//  40.cpp
 //  Leetcode
 //
 //  Created by Rafa Liang on 9/10/16.
-//  Copyright © 2016 Rafa Liang. All rights reserved.
+//
 //
 
+#include <stdio.h>
 #include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+#include "50.h"
+using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+
+int main()
+{
+    int a=3,b=2;
+    cout << double(a)/b << endl;
+    
     return 0;
 }

@@ -25,6 +25,12 @@
 /* Begin PBXFileReference section */
 		CB359F971D85104D000A47BB /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB359F9A1D85104D000A47BB /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		CB359FA71D851C16000A47BB /* 40.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 40.h; sourceTree = "<group>"; };
+		CB359FA81D851C67000A47BB /* 43.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 43.h; sourceTree = "<group>"; };
+		CB359FA91D85D205000A47BB /* 47.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 47.h; sourceTree = "<group>"; };
+		CB359FAA1D85D8EA000A47BB /* 48.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 48.h; sourceTree = "<group>"; };
+		CB359FAB1D85EE97000A47BB /* 49.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 49.h; sourceTree = "<group>"; };
+		CB359FAC1D86076E000A47BB /* 50.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 50.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,12 @@
 			isa = PBXGroup;
 			children = (
 				CB359F9A1D85104D000A47BB /* main.cpp */,
+				CB359FA71D851C16000A47BB /* 40.h */,
+				CB359FA81D851C67000A47BB /* 43.h */,
+				CB359FA91D85D205000A47BB /* 47.h */,
+				CB359FAA1D85D8EA000A47BB /* 48.h */,
+				CB359FAB1D85EE97000A47BB /* 49.h */,
+				CB359FAC1D86076E000A47BB /* 50.h */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
