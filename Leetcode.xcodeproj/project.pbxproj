@@ -31,6 +31,8 @@
 		CB359FAA1D85D8EA000A47BB /* 48.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 48.h; sourceTree = "<group>"; };
 		CB359FAB1D85EE97000A47BB /* 49.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 49.h; sourceTree = "<group>"; };
 		CB359FAC1D86076E000A47BB /* 50.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 50.h; sourceTree = "<group>"; };
+		CB359FAD1D865388000A47BB /* 4.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 4.h; sourceTree = "<group>"; };
+		CB359FAE1D87A0A4000A47BB /* 10.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 10.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,8 @@
 				CB359FAA1D85D8EA000A47BB /* 48.h */,
 				CB359FAB1D85EE97000A47BB /* 49.h */,
 				CB359FAC1D86076E000A47BB /* 50.h */,
+				CB359FAD1D865388000A47BB /* 4.h */,
+				CB359FAE1D87A0A4000A47BB /* 10.h */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
